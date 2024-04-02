@@ -1,0 +1,14 @@
+{
+  "name": "k6_premotheus_grafana",
+  "version": "1.0.0",
+  "description": "k6, premotheus, grafana",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.12.2"
+  }
+}
